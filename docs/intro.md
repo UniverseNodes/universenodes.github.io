@@ -1,7 +1,10 @@
 ---
 sidebar_position: 1
 ---
-# Introduction new
+
+adasd
+
+# Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
